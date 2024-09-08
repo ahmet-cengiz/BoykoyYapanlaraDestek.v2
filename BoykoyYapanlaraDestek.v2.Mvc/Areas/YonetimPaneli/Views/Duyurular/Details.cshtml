@@ -1,0 +1,28 @@
+﻿@model BoykoyYapanlaraDestek.v2.Mvc.Models.Duyuru
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div>
+    <h4>Detay</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DuyuruMetni)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DuyuruMetni)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.OlusturmaTarihi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.OlusturmaTarihi)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Düzenle</a> |
+    <a asp-action="Index">Geri</a>
+</div>

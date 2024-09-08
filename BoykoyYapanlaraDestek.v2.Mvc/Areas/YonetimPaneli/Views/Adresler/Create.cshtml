@@ -1,0 +1,86 @@
+﻿@model BoykoyYapanlaraDestek.v2.Mvc.Models.Adres
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h4>İşletme Ekle</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Adi" class="control-label"></label>
+                <input asp-for="Adi" class="form-control" />
+                <span asp-validation-for="Adi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Turu" class="control-label"></label>
+                <input asp-for="Turu" class="form-control" />
+                <span asp-validation-for="Turu" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Adresi" class="control-label"></label>
+                <input asp-for="Adresi" class="form-control" />
+                <span asp-validation-for="Adresi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Il" class="control-label"></label>
+                <input asp-for="Il" class="form-control" />
+                <span asp-validation-for="Il" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ilce" class="control-label"></label>
+                <input asp-for="Ilce" class="form-control" />
+                <span asp-validation-for="Ilce" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TelefonNumarasi" class="control-label"></label>
+                <input asp-for="TelefonNumarasi" class="form-control" />
+                <span asp-validation-for="TelefonNumarasi" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="CocaColaYok" /> @Html.DisplayNameFor(model => model.CocaColaYok)
+                </label>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="AlgidaYok" /> @Html.DisplayNameFor(model => model.AlgidaYok)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="MapSrc" class="control-label"></label>
+                <input asp-for="MapSrc" class="form-control" />
+                <span asp-validation-for="MapSrc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Enlem" class="control-label"></label>
+                <input asp-for="Enlem" class="form-control" />
+                <span asp-validation-for="Enlem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Boylam" class="control-label"></label>
+                <input asp-for="Boylam" class="form-control" />
+                <span asp-validation-for="Boylam" class="text-danger"></span>
+            </div>
+            
+            
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Ekle" class="btn btn-success" />
+            </div>
+            <br />
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Geri</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

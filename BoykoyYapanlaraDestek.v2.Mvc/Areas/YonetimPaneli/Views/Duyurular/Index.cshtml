@@ -1,0 +1,42 @@
+﻿@model IEnumerable<BoykoyYapanlaraDestek.v2.Mvc.Models.Duyuru>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Duyuru Listesi</h1>
+
+<br />
+<p>
+    <a class="btn btn-success" asp-action="Create">Duyuru Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DuyuruMetni)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OlusturmaTarihi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DuyuruMetni)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OlusturmaTarihi)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detay</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

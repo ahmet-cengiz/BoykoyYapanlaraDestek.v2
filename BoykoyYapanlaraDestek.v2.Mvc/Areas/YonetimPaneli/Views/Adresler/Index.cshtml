@@ -1,0 +1,86 @@
+﻿@model IEnumerable<BoykoyYapanlaraDestek.v2.Mvc.Models.Adres>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>İşletme Listesi</h1>
+
+<br />
+
+<p>
+    <a asp-action="Create" class="btn btn-success">İşletme Ekle</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Adi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Turu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adresi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Il)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ilce)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TelefonNumarasi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CocaColaYok)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AlgidaYok)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OlusturmaTarihi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Turu)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Adresi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Il)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ilce)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TelefonNumarasi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CocaColaYok)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AlgidaYok)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.OlusturmaTarihi)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detay</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

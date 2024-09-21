@@ -1,0 +1,287 @@
+[
+  {
+    "ID": "1",
+    "Adi": "Bursa Yıldırım Şubesi",
+    "IsletmeKategorisi": "Market",
+    "TelefonNumarasi": "02244482260",
+    "Adresi": "Bağlaraltı Mah.415. Sok. No:16-18A Yıldırım/Bursa",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.213993442962!2d29.133941475687816!3d40.18205087147822!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3eb48bf5ece5%3A0x64d591d11a5f1e21!2zQmHEn2xhcmFsdMSxLCA0MTUuIFNrLiBObzoxNiwgMTYzMDAgWcSxbGTEsXLEsW0vQnVyc2E!5e0!3m2!1str!2str!4v1723372097169!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "2",
+    "Adi": "Bursa Osmangazi Şubesi",
+    "IsletmeKategorisi": "Market",
+    "TelefonNumarasi": "02242518786",
+    "Adresi": "Elmasbahçeler, 3. Yüksel Sk. No:38/A, 16230 Osmangazi̇/Bursa",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!3m2!1str!2str!4v1723372849597!5m2!1str!2str!6m8!1m7!1sNAtqVio2e-caYvGNKMYo4w!2m2!1d40.18955967406518!2d29.07351672973086!3f55.9800761310304!4f8.726269903537457!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "3",
+    "Adi": "Bursa Nilüfer Şubesi",
+    "IsletmeKategorisi": "Market",
+    "TelefonNumarasi": "02244515060",
+    "Adresi": "Beşevler, Yıldırım Cd. No:145 D:1A, 16110 Ni̇lüfer/Bursa",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!3m2!1str!2str!4v1723372749846!5m2!1str!2str!6m8!1m7!1sVjGTZTGsGKBnnqNFBamWYA!2m2!1d40.21004997413991!2d28.97670360694877!3f121.46604889533363!4f8.391510128346027!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "4",
+    "Adi": "Yelsem Gıda",
+    "TelefonNumarasi": "05322725279",
+    "Adresi": "Çelebi mehmet bulvarı vakıfköy caddesi no:52"
+  },
+  {
+    "ID": "5",
+    "Adi": "Reyhani Market",
+    "IsletmeKategorisi": "Market",
+    "TelefonNumarasi": "05324602251",
+    "Adresi": "Sırameşeler mahallesi 12.Esen sokak a blok no:5"
+  },
+  {
+    "ID": "6",
+    "Adi": "Besaş Bayi",
+    "TelefonNumarasi": "05365065753",
+    "Adresi": "Akçağlayan mahallesi Çiçek caddesi no:138/1"
+  },
+  {
+    "ID": "7",
+    "Adi": "Şafak Gıda",
+    "IsletmeKategorisi": "Market",
+    "Adresi": "Yenidoğan, Ulu Cd., 16580 Gürsu/Bursa",
+    "Enlem Boylam": "40.199858670180774, 29.181041325100768",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d780139.7087218587!2d27.961548178125014!3d40.199703000000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca38f998d121d3%3A0x24f329d3eb171f81!2zxZ5hZmFrIEfEsWRh!5e0!3m2!1str!2str!4v1723374558805!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "8",
+    "Adi": "Tadim Döner",
+    "IsletmeKategorisi": "Restoran",
+    "Adresi": "Ulucami, 16900 Yeni̇şehi̇r/Bursa",
+    "Enlem Boylam": "40.26228657821367, 29.650136153939894",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3044.611535671856!2d29.647539775692174!3d40.262163771464856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cba4d89fe8785f%3A0xcc9a4c7540742a0b!2sTadim%20D%C3%B6ner!5e0!3m2!1str!2str!4v1723374803254!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "9",
+    "Adi": "Öz Değirmen",
+    "IsletmeKategorisi": "Pastane",
+    "Adresi": "Tahtakale, Kazım Baykal Cd. No:99, 16040 Osmangazi̇/Bursa",
+    "Enlem Boylam": "40.184055884501134, 29.05943669975185",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d762.0313448316252!2d29.058792969607794!3d40.18402309821734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3de3661976cf%3A0xb0d59f75dc9f087a!2sTahtakale%2C%20Kaz%C4%B1m%20Baykal%20Cd.%20No%3A99%2C%2016040%20Osmangazi%CC%87%2FBursa!5e0!3m2!1str!2str!4v1723375463457!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "10",
+    "Adi": "Yesevi Kebap",
+    "IsletmeKategorisi": "Restoran",
+    "Adresi": "Şehreküstü, Cemal Nadir Cd., 16050 Osmangazi/Osmangazi̇/Bursa",
+    "Enlem Boylam": "40.183891206845246, 29.06106935393569",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.1383029080175!2d29.05847297568796!3d40.183735471478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3de384ba67db%3A0xb5e9b330295ef2e5!2sYesevi%20Kebap!5e0!3m2!1str!2str!4v1723375557210!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "11",
+    "Adi": "Mir 500",
+    "IsletmeKategorisi": "Pastane",
+    "Adresi": "Yiğitler, 16300 Yıldırım/Bursa",
+    "Enlem Boylam": "40.19396662062146, 29.160846365037077",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.682603334393!2d29.157799375688516!3d40.19387647147626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca39218e239f15%3A0xfc4ecaddcf6e2fea!2sMir%20500%20%22Hamurun%20En%20Lezzetli%20Hali%22!5e0!3m2!1str!2str!4v1723375674352!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "12",
+    "Adi": "Adakale Cağ Döner",
+    "IsletmeKategorisi": "Restoran",
+    "Adresi": "Yiğitler, 1. Sk., 16300 Yıldırım/Bursa",
+    "Enlem Boylam": "40.19567018461573, 29.16356145393636",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.608620099649!2d29.160965075688644!3d40.19552267147608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3999f546d01b%3A0x4d450c1ca930da79!2zQWRha2FsZSBDYcSfIETDtm5lcg!5e0!3m2!1str!2str!4v1723375774674!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "13",
+    "Adi": "Karacaoğlu Pastanesi",
+    "IsletmeKategorisi": "Pastane",
+    "Adresi": "75. Yıl, 22 Şendeğoan Sok, 16300 Yıldırım/Bursa",
+    "Enlem Boylam": "40.184194751690015, 29.144808395868345",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34478.01902435947!2d29.093463420694782!3d40.19893776022808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3949fa756a87%3A0xd0bf9427a1b929ad!2sKaracao%C4%9Flu%20Pastanesi!5e0!3m2!1str!2str!4v1723375915428!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "14",
+    "Adi": "Karacaoğlu Pastanesi",
+    "IsletmeKategorisi": "Pastane",
+    "Adresi": "Millet, 7210. Sk, 16270 Yıldırım/Bursa",
+    "Enlem Boylam": "40.215937504217436, 29.090260130061473",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24373.975370170843!2d29.069574934765626!3d40.214692200000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3e55aebbedf5%3A0xa12452ce0e8f3dd7!2sKaracao%C4%9Flu!5e0!3m2!1str!2str!4v1723376013909!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "15",
+    "Adi": "Karacaoğlu Pastanesi",
+    "IsletmeKategorisi": "Pastane",
+    "Adresi": "Yiğitler, 333. Sk. No:25, 16300 Yıldırım/Bursa",
+    "Enlem Boylam": "40.18639922784362, 29.155263316229632",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d762.0056659685008!2d29.154807340710924!3d40.18630906863955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca393beb189d33%3A0x27a4434bc5bc55ce!2zWWnEn2l0bGVyLCAzMzMuIFNrLiBObzozMywgMTYzMDAgWcSxbGTEsXLEsW0vQnVyc2E!5e0!3m2!1str!2str!4v1723377373860!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "16",
+    "Adi": "Talham Ortaköy Kumpir & Waffle",
+    "IsletmeKategorisi": "Pastane",
+    "Adresi": "Kayhan, İnönü Cad. batmaz apartmanı no :12, 16360 Osmangazi̇/Bursa",
+    "Enlem Boylam": "40.1833214346117, 29.06836184810652",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.1639036209167!2d29.06342658366871!3d40.18316569793646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3d338e7a9799%3A0x86766e633010dfc3!2sTalham%20Ortak%C3%B6y%20Kumpir%20%26%20Waffle!5e0!3m2!1str!2str!4v1723377470246!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "17",
+    "Adi": "Akay-Pa Maket",
+    "IsletmeKategorisi": "Market",
+    "Adresi": "Yenidoğan, Ramiz Yiğit Cd. No:152, 16580 Gürsu/Bursa",
+    "Enlem Boylam": "40.21036031683334, 29.179934164176068",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d761.7341066941349!2d29.17949159970203!3d40.2104770725387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca38f4a04bc977%3A0xc04694d191b918cc!2zWWVuaWRvxJ9hbiwgUmFtaXogWWnEn2l0IENkLiBObzoxNTIsIDE2NTgwIEfDvHJzdS9CdXJzYQ!5e0!3m2!1str!2str!4v1723377903662!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "18",
+    "Adi": "Dönerci Muhammed Usta",
+    "IsletmeKategorisi": "Restoran",
+    "TelefonNumarasi": "02243712324",
+    "Adresi": "Yenidoğan, 16580 Gürsu/Bursa",
+    "Enlem Boylam": "40.1994254765568, 29.18269207324777",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.441682242787!2d29.17789628367451!3d40.19923699792679!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca394812d3ca33%3A0x23a32a387592d3c1!2sD%C3%B6nerci%20Muhammed%20Usta!5e0!3m2!1str!2str!4v1723378024146!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "19",
+    "Adi": "Taş Fırın Simit",
+    "IsletmeKategorisi": "Pastane",
+    "Adresi": "Tuzpazarı, Abdal Cd. No:35, 16020 Osmangazi̇/Bursa",
+    "Enlem Boylam": "40.18668672446974, 29.067597343164326",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d538.8166155598296!2d29.067350784108008!3d40.18665629743311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3de01b193637%3A0x14af9716b3655229!2zVGHFnyBGxLFyxLFuIFNpbWl0!5e0!3m2!1str!2str!4v1723378331572!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "20",
+    "Adi": "Erikli Kebapçısı",
+    "IsletmeKategorisi": "Restoran",
+    "TelefonNumarasi": "05527161662",
+    "Adresi": "Esenevler Mah Ankara Yolu Caddesi Yılmaz Apt No:512A İÇ KAPI NO:Z1, 16300 Yıldırım/Bursa",
+    "Enlem Boylam": "40.1921332431928, 29.142584200794058",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d302.37633226129424!2d29.142348960584947!3d40.19210071895238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca398c73a99707%3A0xe85b07a70bd7b15e!2zRXJpa2xpIEtlYmFww6fEsXPEsQ!5e0!3m2!1str!2str!4v1723378565489!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "21",
+    "Adi": "Dağpa A.V.M.",
+    "IsletmeKategorisi": "Market",
+    "TelefonNumarasi": "02242368879",
+    "Adresi": "Soğanlı, 1. Ormanyolu Cd. No:29, 16190 Osmangazi̇/Bursa",
+    "Enlem Boylam": "40.20783555409693, 29.039607801899276",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d320.2827061998003!2d29.03942510964922!3d40.207733064542985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca15f3fd015e75%3A0xcd278d4ae3fecf98!2sDa%C4%9Fpa%20A.V.M.!5e0!3m2!1str!2str!4v1723378688123!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "22",
+    "Adi": "Safa Döner",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "TelefonNumarasi": "02243661316",
+    "Adresi": "Duaçınarı, Barış Cd. NO.33, 16290 Yıldırım/Bursa",
+    "Enlem Boylam": "40.19504348597904, 29.110669067429026",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.63678543888!2d29.108104875688515!3d40.194895971476086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3eeb7a046047%3A0xc1edbea5a8fae8e8!2sSafa%20D%C3%B6ner!5e0!3m2!1str!2str!4v1723379051224!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "23",
+    "Adi": "Derya Çorbacısı",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "TelefonNumarasi": "02242521536",
+    "WebAdresi": "http://www.deryacorba.com.tr/",
+    "Adresi": "Elmasbahçeler, Hal Karşısı, Elmasbahçeler Mh Ankara Yolu Caddesi, 1. Eski Sk. No:48/a, 16230 Osmangazi̇/Bursa",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6095.5401390793695!2d29.069618053256622!3d40.191930189855235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3e71cddf9bd3%3A0xd57d54771c6c9efb!2zRGVyeWEgw4dvcmJhY8Sxc8Sx!5e0!3m2!1str!2str!4v1723379200851!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "24",
+    "Adi": "Tatlımar",
+    "IsletmeKategorisi": "Pastane",
+    "CocaColaVarMi": "false",
+    "AlgidaVarMi": "false",
+    "TelefonNumarasi": "02244435943",
+    "WebAdresi": "http://www.tatlimar.com.tr/",
+    "BildirenKisi": "05334699719",
+    "Adresi": "Kurtuluş, Atatürk Cd. 65/B, 16580 Gürsu/Bursa",
+    "Enlem Boylam": "40.214765141019264, 29.192837032774896",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.7517456088694!2d29.18794468368003!3d40.214584897917504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca386467519261%3A0xa304b1308197f16a!2zVGF0bMSxbWFy!5e0!3m2!1str!2str!4v1723379383847!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "25",
+    "Adi": "Dönerci Davut Usta",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "AlgidaVarMi": "false",
+    "TelefonNumarasi": "05384730273",
+    "BildirenKisi": "05334287437",
+    "Adresi": "İhsaniye, İhsaniye Tuna Caddesi No145e, Tuna Cd. 145 a, 16130 Ni̇lüfer/Bursa",
+    "Enlem Boylam": "40.22507910214837, 28.984818060216604",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24370.66334550623!2d28.946537574316398!3d40.2238995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca1430afb3bf79%3A0xc26c29e88068fd2f!2sD%C3%B6nerci%20Davut%20Usta!5e0!3m2!1str!2str!4v1723380130031!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "26",
+    "Adi": "GÜRSULU KARDEŞLER PİDE CANTIK LAHMACUN",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "TelefonNumarasi": "02243713535",
+    "BildirenKisi": "05078083714",
+    "Adresi": "Kurtuluş, GÜRSU BUSKİ BİNASI KARŞISINDAYIZ, Şht. Cüneyt Yıldız Cd. NO:162 /A, 16580 Gürsu/Bursa",
+    "Enlem Boylam": "40.209515942013155, 29.186259455516545",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.9884756167494!2d29.181023783678175!3d40.209319297920736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca39958dceee61%3A0xdfdb7fc3bfdc91d7!2sG%C3%9CRSULU%20KARDE%C5%9ELER%20P%C4%B0DE%20CANTIK%20LAHMACUN!5e0!3m2!1str!2str!4v1723380343302!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "27",
+    "Adi": "Alemdar Besaş",
+    "IsletmeKategorisi": "Market",
+    "CocaColaVarMi": "false",
+    "AlgidaVarMi": "false",
+    "TelefonNumarasi": "4444411",
+    "WebAdresi": "https://www.besasekmek.com.tr/",
+    "BildirenKisi": "05541790678",
+    "DogrulayanKisi": "05541790678",
+    "Adresi": "Alemdar, 1. Işıklı Sk. Sırameşeler Yeni Cami No:44 D:B, 16190 Osmangazi̇/Bursa",
+    "Enlem Boylam": "40.204527520273814, 29.037053613209537",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!3m2!1str!2str!4v1723380554567!5m2!1str!2str!6m8!1m7!1s64tB6DYActcdiVmG_2ePXA!2m2!1d40.20455588167979!2d29.03715587468225!3f278.86438591790113!4f-11.297775778534543!5f0.7820865974627469\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "28",
+    "Adi": "Konuk Pide Beyazıt",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "AlgidaVarMi": "false",
+    "TelefonNumarasi": "02243601626",
+    "BildirenKisi": "05541790678",
+    "DogrulayanKisi": "05541790678",
+    "Adresi": "Beyazıt Mh., Kasım Önadım Blv. No:7, 16330 Yıldırım/Bursa",
+    "Enlem Boylam": "40.186085842901676, 29.10178467030913",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.038218665468!2d29.095948183669634!3d40.18596289793482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3e85805716eb%3A0xd0a44ca98cb6b311!2sKonuk%20Pide%20Beyaz%C4%B1t!5e0!3m2!1str!2str!4v1723381280688!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "29",
+    "Adi": "Şampiyon Kuzu Kokoreç",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "AlgidaVarMi": "false",
+    "TelefonNumarasi": "05465169725",
+    "BildirenKisi": "05360749851",
+    "Adresi": "Millet, Külhan Sk. no15, 16000 Yıldırım/Bursa",
+    "Enlem Boylam": "40.20862755004053, 29.08887781160855",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.026571676223!2d29.086259975689366!3d40.20847187147392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3f1de150aec3%3A0x52f1c4b2b7f72bf1!2s%C5%9Eampiyon%20Kuzu%20Kokore%C3%A7!5e0!3m2!1str!2str!4v1723381450124!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "30",
+    "Adi": "Dönerci Davut Usta 3",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "AlgidaVarMi": "false",
+    "TelefonNumarasi": "05521716925",
+    "BildirenKisi": "05334287437",
+    "Adresi": "Karlidag Cd. &, 1. Alev Sk. No:13, 16270 Yıldırım/Bursa",
+    "Enlem Boylam": "40.19403841923923, 29.092606888588776",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.681586477272!2d29.08776818367258!3d40.19389909793001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca14396d4405d5%3A0xf07629f721668400!2sD%C3%B6nerci%20davut%20usta%203!5e0!3m2!1str!2str!4v1723381738964!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  },
+  {
+    "ID": "31",
+    "Adi": "Dönerci Davut Usta 2",
+    "IsletmeKategorisi": "Restoran",
+    "CocaColaVarMi": "false",
+    "AlgidaVarMi": "false",
+    "TelefonNumarasi": "05302474825",
+    "BildirenKisi": "05334287437",
+    "Adresi": "Yunuseli, Fuat Kuşçuoğlu Cd. 259/b, 16200 Osmangazi̇/Bursa",
+    "Enlem Boylam": "40.25222323146062, 29.017207438054545",
+    "MapsSrc": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3045.0632793763807!2d29.01409607569158!3d40.25212497146658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca15bd27c54c5f%3A0x72395ab75f08d170!2sD%C3%B6nerci%20davut%20usta%202!5e0!3m2!1str!2str!4v1723381827518!5m2!1str!2str\" width=\"400\" height=\"300\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+  }
+]
